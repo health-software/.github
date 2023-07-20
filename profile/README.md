@@ -1,3 +1,5 @@
+# <a href="https://aimodels.org/models/healthcare">AI for Healthcare</a>
+
 # What is Open Source in Healthcare?
 Open source in healthcare is the concept that healthcare software, hardware, data, and related information should be made freely available for use, modification, and distribution. This includes medical software, hardware, and data that are open source licensed, making them freely available to everyone.
 
